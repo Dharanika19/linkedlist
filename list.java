@@ -13,6 +13,9 @@ public class list{
 }
 
 
-
+/*
+OUTPUT:
+[c++,java,html,PHP,SOL]
+    */
     
 
