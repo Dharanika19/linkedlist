@@ -12,3 +12,7 @@ public class Size{
 }
     
 
+/*
+OUTPUT:
+[4]
+*/
