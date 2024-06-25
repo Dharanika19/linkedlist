@@ -10,3 +10,9 @@ public class GetFirst {
       }
     }
 
+
+/*
+OUTPUT:
+[apple]
+    */
+
