@@ -11,3 +11,9 @@ public class Main{
         System.out.println(colors);
     }
 }
+
+
+/*
+OUTPUT:
+[red,blue,yellow,pink,black]
+    */
