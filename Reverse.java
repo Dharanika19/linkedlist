@@ -9,3 +9,9 @@ public class Main{
          System.out.println(name.reversed());
     }
 }
+
+
+/*
+OUTPUT:
+[anish,saran,kavi,Dharan]
+    */
